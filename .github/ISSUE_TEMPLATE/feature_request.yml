@@ -1,0 +1,35 @@
+name: Feature Request
+description: 提交一个功能建议
+title: "[Feature] "
+labels: []
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: 你当前遇到的问题是什么
+      placeholder: 我希望...
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: 你建议怎么改
+      placeholder: 建议新增...
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives
+      description: 你尝试过的替代方案
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: 其他补充信息
+    validations:
+      required: false
