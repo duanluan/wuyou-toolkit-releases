@@ -5,8 +5,6 @@
 - 发布 `wuyou-toolkit` 的安装包与版本说明
 - 收集 Bug 反馈与功能建议
 
-这里不公开应用源码，源码仓库保持 private。
-
 ## 下载
 
 请前往 [Releases](https://github.com/duanluan/wuyou-toolkit-releases/releases) 页面下载最新版本。
